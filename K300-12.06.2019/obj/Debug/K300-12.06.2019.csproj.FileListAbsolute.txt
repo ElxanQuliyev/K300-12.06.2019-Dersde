@@ -1,0 +1,6 @@
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\bin\Debug\K300-12.06.2019.exe.config
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\bin\Debug\K300-12.06.2019.exe
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\bin\Debug\K300-12.06.2019.pdb
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\obj\Debug\K300-12.06.2019.csprojAssemblyReference.cache
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\obj\Debug\K300-12.06.2019.exe
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\obj\Debug\K300-12.06.2019.pdb
